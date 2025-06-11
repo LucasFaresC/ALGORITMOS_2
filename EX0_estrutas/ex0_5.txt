@@ -1,0 +1,2 @@
+O problema apresentado no algoritmo de português estruturado, é que após ser declarado o funcionário f,
+deveria-se atribuir f.nome, já que f é a variavel do tipo funcionário, e não só funcionário. 

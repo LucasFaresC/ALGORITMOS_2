@@ -1,0 +1,5 @@
+|-> Inclua a biblioteca no topo do código
+|
+|-> Passar parametro da variavel printada depois da vírgula
+|
+|-> Revisar loop for ao contrario -> interações com vetores de ponteiros

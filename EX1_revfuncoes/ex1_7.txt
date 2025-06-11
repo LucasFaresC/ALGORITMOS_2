@@ -1,0 +1,2 @@
+O problema deste algoritmo esta na diferença de tipos na função converterKm_Mi, que é declarada pra
+retornar inteiro, mas retorna uma variavel de tipo real.

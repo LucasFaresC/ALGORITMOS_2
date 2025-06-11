@@ -1,0 +1,6 @@
+#*.tiposdearquivos_para_ignorar
+# pra repo n precisa de asterisco
+
+
+#ignorando as configurações do vscode
+.vscode/

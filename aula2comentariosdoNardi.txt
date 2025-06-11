@@ -1,0 +1,10 @@
+*Não atrasar, não fale durante o professor fala, fazer a lista sempre que possivel.
+
+- Divisão de em Lógica em código p/função 
+	|-> 3 partes  => Leitura/Entrada de dados, processamento de dados, Saída/"Printagem" de dados.
+	|
+	|-> 2 Perguntas => 1° Escopo da sua variável (evitar variáveis globais); 2° Qual deve ser o valor
+	|		   de retorno, e se retorna algo. 
+	|
+	|-> 
+

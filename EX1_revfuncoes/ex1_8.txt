@@ -1,0 +1,1 @@
+Ao final da função, as variaveis são redeclaradas durante a printagem
