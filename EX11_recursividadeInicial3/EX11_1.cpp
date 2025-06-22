@@ -14,8 +14,6 @@ void verificarNumeros(int n1){
 
 }
 
-//
-
 
 int main(){
     int numero_j1;
