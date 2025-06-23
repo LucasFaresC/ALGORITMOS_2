@@ -9,10 +9,10 @@
 //     }
 // }
 
-int media(int i){
-    int num;
+float media(int i){
+    float num;
     printf("\nDigite um numero: ");
-    scanf("%d", &num);
+    scanf("%f", &num);
 
     if(i == 1){
         return num;
@@ -23,8 +23,8 @@ int media(int i){
 }
 
 int main(){
-    int s = media(4)/4;
-    printf("\n%d", s);
+    float s = media(4)/4.0;
+    printf("\nMédia das Notas: %.2f ", s);
     
     // printf("\nMédia Magica = %d", media(A, sizeof(A)));
 
